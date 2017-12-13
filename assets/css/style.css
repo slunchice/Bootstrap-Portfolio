@@ -40,7 +40,7 @@ h2{
 }
 
 /* .container {
-  /* color: #777777; */
+  color: #777777;
   width: 960px;
   margin: 0 auto;  
 } */
@@ -77,14 +77,14 @@ a{
   color: #777777;
 }
 .sidebar{
-  position: relative;
+  /* position: relative; */
   /* clear: both; */
-  top: 120px;
+  /* top: 120px; */
   padding: 30px;
   background-color: white;  
-  float: right;
-  width: 210px;
-  margin-left: 40px;
+  /* float: right; */
+  /* width: 210px; */
+  /* margin-left: 40px; */
 
 }
 
